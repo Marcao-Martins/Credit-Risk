@@ -1,4 +1,4 @@
-# Credit Risk Analysis 🎯
+# Credit Risk Classification 🎯
 
 ## Overview 📋
 A personal study project focused on credit risk analysis using machine learning models, created to enhance my knowledge and skills in this domain.
